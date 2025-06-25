@@ -1,6 +1,8 @@
 <img src="https://github.com/mintusikder/mintusikder/blob/main/Mintu%20Sikder.png">
 <h1 align="center">I'm Mintu Sikder</h1>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<table><tr><td valign="top" width="33%">
+
 ### Frontend
 
 <div align="center">
