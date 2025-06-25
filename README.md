@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mintusikder/mintusikder/blob/main/Mintu%20Sikder.png" alt="Mintu Sikder">
+  <img src="https://github.com/mintusikder/mintusikder/blob/main/banner.png" alt="Mintu Sikder">
 </p>
 
 <h1 align="center">I'm Mintu Sikder</h1>
