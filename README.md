@@ -56,15 +56,13 @@
 
 </td></tr></table>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+### 👩‍💻 About Me
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- 💼 Currently diving deep into **Frontend Development**
+- 🌱 Learning: **JavaScript**, **ReactJS**, **Tailwind CSS**, and **Firebase**
+- 🧠 Passionate about **clean design**, **accessibility**, and building **fast, user-friendly** web apps
+- 🎯 Goal: To become a **Full Stack Developer**
+- 🔥 Fun Fact: **I’m not a magician, but I can definitely turn coffee into code! ☕
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
