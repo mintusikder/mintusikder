@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mintusikder/mintusikder/blob/main/Mintu%20Sikder.png" width="200" alt="Mintu Sikder">
+  <img src="https://github.com/mintusikder/mintusikder/blob/main/Mintu%20Sikder.png" alt="Mintu Sikder">
 </p>
 
 <h1 align="center">I'm Mintu Sikder</h1>
@@ -79,5 +79,4 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-![Mintu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintusikder&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mintusikder&theme=radical)](https://git.io/streak-stats)
+
