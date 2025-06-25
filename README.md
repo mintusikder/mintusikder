@@ -68,8 +68,7 @@ Hello there, I am Mintu Sikder, a dedicated and enthusiastic React front-end dev
 - 🔥 Fun Fact: **I’m not a magician, but I can definitely turn coffee into code! ☕
 - ## 📂 Recent Projects
 
-<h3>🌱 Open Source Projects</h3>
-
+<h3>Open source projects</h3>
 <table>
   <thead align="center">
     <tr>
@@ -77,71 +76,34 @@ Hello there, I am Mintu Sikder, a dedicated and enthusiastic React front-end dev
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull Requests</b></td>
+      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <a href="https://github.com/mintusikder/plant-net-fullstack-project">
-          <b>PlantNet Fullstack Project 🌿</b>
-        </a>
-      </td>
-      <td>
-        <img alt="Stars" src="https://img.shields.io/github/stars/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Forks" src="https://img.shields.io/github/forks/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Issues" src="https://img.shields.io/github/issues/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41" />
-      </td>
+      <td><a href="https://github.com/mintusikder/plant-net-fullstack-project"><b>PlantNet Fullstack Project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
     <tr>
-      <td>
-        <a href="https://github.com/mintusikder/fast-shift">
-          <b>Fast Shift - Delivery Website 🚚</b>
-        </a>
-      </td>
-      <td>
-        <img alt="Stars" src="https://img.shields.io/github/stars/mintusikder/fast-shift?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Forks" src="https://img.shields.io/github/forks/mintusikder/fast-shift?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Issues" src="https://img.shields.io/github/issues/mintusikder/fast-shift?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mintusikder/fast-shift?style=flat-square&labelColor=343b41" />
-      </td>
+      <td><a href="https://github.com/mintusikder/fast-shift"><b>Fast Shift Delivery Platform</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mintusikder/fast-shift?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mintusikder/fast-shift?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mintusikder/fast-shift?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mintusikder/fast-shift?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
     <tr>
-      <td>
-        <a href="https://github.com/mintusikder/gym-schedule-crud">
-          <b>Gym Schedule CRUD 🏋️</b>
-        </a>
-      </td>
-      <td>
-        <img alt="Stars" src="https://img.shields.io/github/stars/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Forks" src="https://img.shields.io/github/forks/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Issues" src="https://img.shields.io/github/issues/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41" />
-      </td>
-      <td>
-        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41" />
-      </td>
+      <td><a href="https://github.com/mintusikder/gym-schedule-crud"><b>Gym Schedule CRUD System</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
+
 
 
 <h3>🔗 Where to Find Me</h3>
