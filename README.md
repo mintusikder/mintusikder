@@ -67,10 +67,13 @@ Hello there, I am Mintu Sikder, a dedicated and enthusiastic React front-end dev
 - 🎯 Goal: To become a **Full Stack Developer**
 - 🔥 Fun Fact: **I’m not a magician, but I can definitely turn coffee into code! ☕
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h3>🔗 Where to Find Me</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mintusikder&show_icons=true&locale=en" alt="mintusikder" /></p>
+<p>
+  <a href="mintusikder15@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mintusikder" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
