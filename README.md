@@ -1,3 +1,4 @@
+<img src="https://github.com/mintusikder/mintusikder/blob/main/Mintu%20Sikder.png">
 <h1 align="center">I'm Mintu Sikder</h1>
 <h3 align="center">A full-time front-end developer 👨‍💻</h3>
 
