@@ -8,7 +8,9 @@
   👋 Hello there! I am a passionate <strong>React Front-End Developer</strong> with full-stack knowledge. <br/>
   Over the past year, I've been building scalable, responsive, and dynamic web apps using the MERN stack.
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mintusikder&label=Profile+Views" alt="visitors" />
+</p>
 ---
 
 ### 🚀 About Me
