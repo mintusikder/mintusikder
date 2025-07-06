@@ -48,7 +48,7 @@ I'm a frontend-focused full-stack developer who loves crafting elegant user expe
 ## 📌 Featured Projects
 
 ### 📚 SmartShelf  
-🔗 [Live Site](https://library-system-b602f.web.app/) • [Repo](https://github.com/mintusikder/library-system)
+🔗 [Live Site](https://library-system-b602f.web.app/) • [Repo](https://github.com/mintusikder/library-client)
 
 A fully-featured library management platform for book lovers and admins.
 
@@ -63,7 +63,7 @@ A fully-featured library management platform for book lovers and admins.
 ---
 
 ### 🌱 The Garden Glow  
-🔗 [Live Site](https://your-garden-glow-site.com) • [Repo](https://github.com/mintusikder/garden-glow)
+🔗 [Live Site](https://your-garden-glow-site.com) • [Repo](https://github.com/mintusikder/gardening-client)
 
 A vibrant community for plant lovers and sustainable gardeners.
 
@@ -91,6 +91,13 @@ A vibrant community for plant lovers and sustainable gardeners.
   <a href="mailto:mintusikder15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mintusikder"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+
+### 💬 Let's Collaborate or Work Together
+- 💡 I’m open to contributing to open-source projects, freelance roles, or team-based web apps
+- 🛠️ Need help with React, APIs, or authentication? Let’s team up!
+- 📬 Message me via LinkedIn, Discord, or email for collaboration
 
 ---
 
