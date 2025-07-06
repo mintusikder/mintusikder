@@ -63,13 +63,57 @@
 
 ---
 
-## 💻 Open Source Projects
+📌 Featured Projects
+🌱 The Garden Glow
+🔗 Repository • 🌐 Live Site
 
-| 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull Requests |
-|------------|----------|-----------|-------------|------------------|
-| [**PlantNet Fullstack Project**](https://github.com/mintusikder/plant-net-fullstack-project) | ![Stars](https://img.shields.io/github/stars/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/mintusikder/plant-net-fullstack-project?style=flat-square&labelColor=343b41) |
-| [**Fast Shift Delivery Platform**](https://github.com/mintusikder/fast-shift) | ![Stars](https://img.shields.io/github/stars/mintusikder/fast-shift?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mintusikder/fast-shift?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mintusikder/fast-shift?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/mintusikder/fast-shift?style=flat-square&labelColor=343b41) |
-| [**Gym Schedule CRUD System**](https://github.com/mintusikder/gym-schedule-crud) | ![Stars](https://img.shields.io/github/stars/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/mintusikder/gym-schedule-crud?style=flat-square&labelColor=343b41) |
+🌿 A vibrant gardening community platform where users can explore tips, connect with expert gardeners, and share sustainable practices.
+
+✨ Features:
+
+👥 Role-based access: Gardener, User
+
+📝 Share and browse gardening tips by category, difficulty, and plant type
+
+🔐 Firebase Auth for secure login and personalized content
+
+💬 Dynamic routes for individual tip details and user-contributed content
+
+🛠 Built with React, Tailwind CSS, Firebase, Express, MongoDB
+
+🌐 Responsive UI optimized for both mobile and desktop
+
+📚 SmartShelf
+🔗 Repository • 🌐 Live Site
+
+📖 A modern library management system for readers and administrators.
+
+✨ Features:
+
+🔍 Browse, search, and filter books by category and availability
+
+🔐 Role-based authentication: User
+
+🔄 Borrow and return tracking with real-time quantity updates
+
+📊 Admin dashboard for managing books, categories, and user accounts
+
+🛠 Tech: React, Tailwind CSS, Firebase, Express, MongoDB
+
+📱 Fully responsive design with intuitive UI
+
+
+
+
+## 💬 Let's Collaborate or Work Together
+- 💡 I’m open to contributing to open-source projects, freelance roles, or team-based web apps
+- 🛠️ Need help with React, APIs, or authentication? Let’s team up!
+- 📬 Message me via LinkedIn, or email for collaboration
+
+
+### 🌐 Portfolio  
+📎 [Visit My Portfolio](https://mintusikder-3d3e0.web.app/)  
+💻 Built using: React, Tailwind, and daisyui
 
 ---
 
