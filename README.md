@@ -53,11 +53,12 @@ I'm a frontend-focused full-stack developer who loves crafting elegant user expe
 A fully-featured library management platform for book lovers and admins.
 
 ✨ Features:
-- Book browsing, search, and filter by category
-- Role-based login with Firebase Auth
-- Borrow/return system with real-time updates
-- Admin dashboard for managing books & users
-- Built with: **React, Tailwind, Express, MongoDB, Firebase**
+-🔍 Browse, search, and filter books by category and availability
+-🔐 Role-based authentication: User
+-🔄 Borrow and return tracking with real-time quantity updates
+-📊 Admin dashboard for managing books, categories, and user accounts
+-🛠 Tech: React, Tailwind CSS, Firebase, Express, MongoDB
+-📱 Fully responsive design with intuitive UI
 
 ---
 
@@ -67,10 +68,11 @@ A fully-featured library management platform for book lovers and admins.
 A vibrant community for plant lovers and sustainable gardeners.
 
 ✨ Features:
-- User and gardener roles with content access
-- Post gardening tips by plant type and difficulty
-- Firebase Auth + dynamic tip detail routes
-- Responsive UI with **TailwindCSS** & **React Router**
+-📝 Share and browse gardening tips by category, difficulty, and plant type
+-🔐 Firebase Auth for secure login and personalized content
+-💬 Dynamic routes for individual tip details and user-contributed content
+-🛠 Built with React, Tailwind CSS, Firebase, Express, MongoDB
+-🌐 Responsive UI optimized for both mobile and desktop
 
 ---
 
